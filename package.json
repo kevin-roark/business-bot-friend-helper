@@ -1,0 +1,15 @@
+{
+  "name": "business-bot-friend-helper",
+  "version": "1.0.0",
+  "description": "Help you get good job",
+  "main": "index.js",
+  "author": "Kevin Roark Jr",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "gmail-send": "^1.2.7",
+    "user-stream": "0.0.8"
+  }
+}
